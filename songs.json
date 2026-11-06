@@ -2,9 +2,14 @@
 {
   "songs": [
     {
-      "title": "Đi nữa đời này",
+      "title": "Đi nửa đời này",
       "artist": "Tác giả",
-      "file": "Đi nữa đời này .mp3"
+      "file": "Đi nửa đời này .mp3"
+    },
+    {
+      "title": "Cơm áo gạo tiền",
+      "artist": "Tác giả",
+      "file": "Cơm áo gạo tiền .mp3"
     }
   ]
 }
