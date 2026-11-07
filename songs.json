@@ -1,16 +1,19 @@
-
 {
-  "songs": [
+  "bài hát": [
     {
-      "title": "Đi nữa đời này",
-      "artist": "Tác giả",
-      "file": "Đi nữa đời này .mp3"
+      "tiêu đề": "Đi còn đời này",
+      "nghệ sĩ": "Tác giả",
+      "tài liệu": "Đi nữa đời này .mp3"
     },
     {
-      "title": "Cơm áo gạo tiền",
-      "artist": "Tác giả",
-      "file": "Cơm áo gạo tiền .mp3"
+      "tiêu đề": "áo gạo tiền",
+      "nghệ sĩ": "Tác giả",
+      "tài liệu": "Cơm áo gạo tiền .mp3"
+    },
+    {
+      "tiêu đề": "Lầu cao một bóng",
+      "nghệ sĩ": "Tác giả",
+      "tài liệu": "Lầu cao một bóng .mp3"
     }
   ]
 }
-
